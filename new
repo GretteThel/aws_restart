@@ -1,0 +1,41 @@
+print ("Python has three numeric types: int, float, and complex")
+
+#Creating Variable
+myValue=1
+
+
+
+
+
+
+
+# %myvalue=3
+# print(%myValue)
+
+#underscore accepts as variable name with special char
+_myValue=3
+print(_myValue)
+
+myValue1=2
+print(myValue1)
+
+"int
+print(type(myValue1))
+
+
+anythingValue=2.2
+print(type(anythingValue))
+
+#complex
+double=2J
+print(type(double))
+
+age=23
+print("My age is " + " "+ str(age))
+
+#Boolean
+myVariable=True
+print(type(myVariable))
+
+myVariable=False
+print(type(myVariable))
